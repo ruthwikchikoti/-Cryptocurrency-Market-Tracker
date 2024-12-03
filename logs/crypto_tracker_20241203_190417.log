@@ -1,0 +1,44 @@
+2024-12-03 19:04:17.044 - INFO - Cryptocurrency Tracker Started
+2024-12-03 19:04:17.193 - INFO - Successfully fetched data for top 50 cryptocurrencies
+2024-12-03 19:04:17.202 - INFO - Analysis complete. Average Price: $4209.25
+2024-12-03 19:04:17.202 - INFO - Highest 24h Change: Hedera (40.76%)
+2024-12-03 19:04:17.202 - INFO - Lowest 24h Change: Kaspa (-3.42%)
+2024-12-03 19:04:17.242 - INFO - Data saved to crypto_tracker.xlsx successfully
+2024-12-03 19:04:17.242 - INFO - Waiting 5 minutes for next data fetch...
+2024-12-03 19:04:47.292 - INFO - Successfully fetched data for top 50 cryptocurrencies
+2024-12-03 19:04:47.302 - INFO - Analysis complete. Average Price: $4209.25
+2024-12-03 19:04:47.302 - INFO - Highest 24h Change: Hedera (40.76%)
+2024-12-03 19:04:47.302 - INFO - Lowest 24h Change: Kaspa (-3.42%)
+2024-12-03 19:04:47.330 - INFO - Data saved to crypto_tracker.xlsx successfully
+2024-12-03 19:04:47.330 - INFO - Waiting 5 minutes for next data fetch...
+2024-12-03 19:05:17.429 - INFO - Successfully fetched data for top 50 cryptocurrencies
+2024-12-03 19:05:17.439 - INFO - Analysis complete. Average Price: $4209.25
+2024-12-03 19:05:17.439 - INFO - Highest 24h Change: Hedera (40.76%)
+2024-12-03 19:05:17.440 - INFO - Lowest 24h Change: Kaspa (-3.42%)
+2024-12-03 19:05:17.475 - INFO - Data saved to crypto_tracker.xlsx successfully
+2024-12-03 19:05:17.476 - INFO - Waiting 5 minutes for next data fetch...
+2024-12-03 19:05:48.508 - INFO - Successfully fetched data for top 50 cryptocurrencies
+2024-12-03 19:05:48.513 - INFO - Analysis complete. Average Price: $4198.97
+2024-12-03 19:05:48.513 - INFO - Highest 24h Change: Hedera (38.70%)
+2024-12-03 19:05:48.513 - INFO - Lowest 24h Change: Kaspa (-4.75%)
+2024-12-03 19:05:48.537 - INFO - Data saved to crypto_tracker.xlsx successfully
+2024-12-03 19:05:48.537 - INFO - Waiting 5 minutes for next data fetch...
+2024-12-03 19:06:18.613 - INFO - Successfully fetched data for top 50 cryptocurrencies
+2024-12-03 19:06:18.619 - INFO - Analysis complete. Average Price: $4209.25
+2024-12-03 19:06:18.619 - INFO - Highest 24h Change: Hedera (40.76%)
+2024-12-03 19:06:18.619 - INFO - Lowest 24h Change: Kaspa (-3.42%)
+2024-12-03 19:06:18.648 - INFO - Data saved to crypto_tracker.xlsx successfully
+2024-12-03 19:06:18.648 - INFO - Waiting 5 minutes for next data fetch...
+2024-12-03 19:06:48.727 - INFO - Successfully fetched data for top 50 cryptocurrencies
+2024-12-03 19:06:48.734 - INFO - Analysis complete. Average Price: $4209.25
+2024-12-03 19:06:48.734 - INFO - Highest 24h Change: Hedera (40.76%)
+2024-12-03 19:06:48.734 - INFO - Lowest 24h Change: Kaspa (-3.42%)
+2024-12-03 19:06:48.763 - INFO - Data saved to crypto_tracker.xlsx successfully
+2024-12-03 19:06:48.764 - INFO - Waiting 5 minutes for next data fetch...
+2024-12-03 19:07:18.865 - INFO - Successfully fetched data for top 50 cryptocurrencies
+2024-12-03 19:07:18.870 - INFO - Analysis complete. Average Price: $4198.97
+2024-12-03 19:07:18.870 - INFO - Highest 24h Change: Hedera (38.70%)
+2024-12-03 19:07:18.870 - INFO - Lowest 24h Change: Kaspa (-4.75%)
+2024-12-03 19:07:18.897 - INFO - Data saved to crypto_tracker.xlsx successfully
+2024-12-03 19:07:18.898 - INFO - Waiting 5 minutes for next data fetch...
+2024-12-03 19:07:47.137 - INFO - Cryptocurrency Tracker Stopped by User
